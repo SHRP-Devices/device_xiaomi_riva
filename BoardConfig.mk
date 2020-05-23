@@ -100,3 +100,6 @@ SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := A_Only
 SHRP_FLASH := 1
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
+SHRP_EXPRESS := true
+SHRP_OFFICIAL := true
+SHRP_DARK := true
