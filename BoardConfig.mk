@@ -103,3 +103,5 @@ SHRP_REC := /dev/block/bootdevice/by-name/recovery
 SHRP_EXPRESS := true
 SHRP_OFFICIAL := true
 SHRP_DARK := true
+SHRP_NO_SAR_AUTOMOUNT := true
+BOARD_BUILD_SYSTEM_ROOT_IMAGE := false
