@@ -87,3 +87,21 @@ TW_INCLUDE_FUSE_EXFAT := true
 
 # NTFS Support
 TW_INCLUDE_FUSE_NTFS := true
+
+# SHRP_Variables
+SHRP_PATH := device/xiaomi/riva
+SHRP_MAINTAINER := Agus
+SHRP_DEVICE_CODE := riva
+SHRP_EDL_MODE := 1
+SHRP_EXTERNAL := /sdcard1
+SHRP_INTERNAL := /sdcard
+SHRP_OTG := /usb-otg
+SHRP_REC_TYPE := Treble
+SHRP_DEVICE_TYPE := A_Only
+SHRP_FLASH := 1
+SHRP_REC := /dev/block/bootdevice/by-name/recovery
+SHRP_EXPRESS := true
+SHRP_OFFICIAL := true
+SHRP_DARK := true
+SHRP_NO_SAR_AUTOMOUNT := true
+BOARD_BUILD_SYSTEM_ROOT_IMAGE := false
